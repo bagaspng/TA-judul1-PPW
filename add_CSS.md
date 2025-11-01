@@ -1,4 +1,4 @@
-## 2 - Menambahkan dan Mengunggah File ke Repository
+## 3 - Menambahkan dan Mengunggah File ke Repository
 
 ### 🔹 Langkah-langkah
 
